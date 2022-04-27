@@ -1,0 +1,8 @@
+# ninja log v5
+4	752	1651033479319995113	CMakeFiles/Book_list_LinkedList.dir/book.cpp.o	9f9ba485d223dad8
+4	753	1651033479322825842	CMakeFiles/Book_list_LinkedList.dir/booklist.cpp.o	8418a789eced1573
+3	753	1651033479323259165	CMakeFiles/Book_list_LinkedList.dir/main.cpp.o	33f96baf44139ef6
+753	842	1651033479415964689	Book_list_LinkedList	52e18a0f7d35ab02
+1	1843	1651033534763348199	CMakeFiles/Book_list_LinkedList.dir/main.cpp.o	33f96baf44139ef6
+2	1849	1651033534750681355	CMakeFiles/Book_list_LinkedList.dir/booklist.cpp.o	8418a789eced1573
+1849	1969	1651033534904451146	Book_list_LinkedList	52e18a0f7d35ab02
